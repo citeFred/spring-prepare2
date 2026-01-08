@@ -8,6 +8,7 @@ public class SpringPrepareApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringPrepareApplication.class, args);
+		System.out.println("게시판 기능 구현중");
 		System.out.println("Kakao Login Added");
 		System.out.println("Naver Login Added");
 	}
